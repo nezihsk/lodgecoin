@@ -29,11 +29,14 @@
 <body>
 
   <h1>Architects Coin</h1>
+
+  <p>Within the ancient halls where silence speaks louder than words, a symbol was born.</p>
   <p>Forged by unseen architects, this coin carries the Compass and Square, cradling the sacred "G" — the eternal cipher of creation, consciousness, and cosmic law.</p>
+  <p>It is not minted for the masses. It is not traded for vanity.</p>
   <p>It is a vessel of the unseen order, a beacon for those who dare to seek beyond the veil.</p>
-  
+
   <br><br>
+
   <a href="secret-oath.html" target="_blank">🔮 Reveal the Secret Oath 🔮</a>
 
 </body>
-</html>
